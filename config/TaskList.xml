@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--以下是任务列表-->
+<list>
+	<data>
+		<path>/var/source/web/mvc_self/test.php</path>
+		<class>Test</class>
+		<method>run</method>
+		<params></params>
+		<sleep>5</sleep></data>
+	<data>
+		<path>/var/source/web/mvc_self/ceshi.php</path>
+		<class>ceshi</class>
+		<method>run</method>
+		<params></params>
+		<sleep>2</sleep></data>
+</list>
